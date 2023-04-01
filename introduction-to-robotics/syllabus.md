@@ -17,7 +17,7 @@ systems and the interdisciplinary nature of robotics research.
 * Actuators and motors
 * Sensors and perception
 
-## ## Week 3: Robot Control
+## Week 3: Robot Control
 
 * Microcontrollers and embedded systems
 * Control architectures
