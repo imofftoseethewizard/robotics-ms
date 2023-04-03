@@ -50,7 +50,7 @@ required for understanding and solving robotics problems.
 ## Week 8: Partial Differential Equations (PDEs)
 
 *    Classification of PDEs
-*    Solutions methods: separation of variables, Fourier series
+*    Solution methods: separation of variables, Fourier series
 *    Applications of PDEs in robotics
 
 ## Week 9: Probability Theory I
